@@ -2,9 +2,10 @@
 
 ### Usage
 
-Start the project:
+Init the EdgeDB project and start the server:
 
 ```
+edgedb project init
 deno task start
 ```
 
